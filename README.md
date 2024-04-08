@@ -1,0 +1,1 @@
+Case study revolves around a computer hardware company encountering difficulties in an ever-evolving market landscape. In response, the sales director opts to initiate a data analysis project, aiming to construct a Power BI dashboard providing real-time sales insights.
