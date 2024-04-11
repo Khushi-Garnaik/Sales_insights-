@@ -1,3 +1,6 @@
+Sales Insights Project using Microsoft Power-Bi 
+
+
 About Project 
 
 Performed India based hardware company sales insights - A Data Analysis project.
